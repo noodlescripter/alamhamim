@@ -1,9 +1,9 @@
-## Use @ez-library
+## Implement @ez-library In Your Automation Framework!!!
 1) https://github.com/alamhamim/ez-library_wdio
 2) https://github.com/alamhamim/ez-library_cypress 
 
 
-📫 You can reach on LinkedIn.
+📫 You can reach on LinkedIn || Twitter :) 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamim-alam/)
