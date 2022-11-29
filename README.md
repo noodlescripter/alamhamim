@@ -11,4 +11,4 @@
 
 
 ## 🛠 Skills
-Javascript, Typescript, NodeJS, npm, yarn, Java, Selenium, Cypress, WebdriverIO, Playwright, Appium, RESTapi, SOAP, JSON, XML, DB(sql, oracle, mssql, mysql), Docker, Jenkins, ANT, Wildfly, Maven, AWS, Codecommit, Google Cloud, Google API, Batch File (Win), Terminal (Linux: Fedora, Debian || MacOS), Windows (CMD, GitBash), Github (GitHub Action, Github pkgs). 
+Javascript, Typescript, NodeJS, npm, yarn, Java, Selenium, Cypress, WebdriverIO, Playwright, Appium, RESTapi, SOAP, JSON, XML, DB(sql, oracle, mssql, mysql), Docker, Jenkins, ANT, Wildfly, Maven, AWS, Codecommit, Google Cloud, Google API, Batch File (Win), Terminal (Linux: Fedora, Debian || MacOS), Windows (CMD, GitBash), Github (GitHub Actions, Github pkgs). 
