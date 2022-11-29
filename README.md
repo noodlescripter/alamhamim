@@ -1,5 +1,7 @@
+## Use @ez-library
+1) https://github.com/alamhamim/ez-library_wdio
+2) https://github.com/alamhamim/ez-library_cypress 
 
-💬 Ask me about Java, JS and TS.
 
 📫 You can reach on LinkedIn.
 
@@ -9,5 +11,4 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Typescripts, Java, Selenium, Cypress, Protractor, Rest API, SOAP, JSON, XML, RDBMS, DBMS, SQL Server, MYSQL, SQL Server management studio, sql editor, Oracle Server, sql developer, Jenkins, CI/CD, APPIUM, npm, nvm, nodeJS, Rally, Jira, MS Teams, Excel, ANT, JDBC, Maven, CMD, Linux, MAC, Windows
-
+Javascript, Typescript, NodeJS, npm, yarn, Java, Selenium, Cypress, WebdriverIO, Playwright, Appium, RESTapi, SOAP, JSON, XML, DB(sql, oracle, mssql, mysql), Docker, Jenkins, ANT, Wildfly, Maven, AWS, Codecommit, Google Cloud, Google API, Batch File (Win), Terminal (Linux: Fedora, Debian || MacOS), Windows (CMD, GitBash), Github (Git Action, Github pkgs). 
