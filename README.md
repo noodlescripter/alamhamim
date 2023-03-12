@@ -1,6 +1,7 @@
 ## Implement @ez-library In Your Automation Framework!!!
 1) https://github.com/alamhamim/ez-library_wdio
 2) https://github.com/alamhamim/ez-library_cypress 
+3) https://github.com/alamhamim/ez-library_playwright
 
 
 📫 You can reach on LinkedIn || Twitter :) 
