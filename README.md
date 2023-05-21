@@ -2,6 +2,7 @@
 1) https://github.com/alamhamim/ez-library_wdio
 2) https://github.com/alamhamim/ez-library_cypress 
 3) https://github.com/alamhamim/ez-library_playwright
+4) https://github.com/alamhamim/qa_library_selenium/tree/develop
 
 
 📫 You can reach on LinkedIn || Twitter :) 
